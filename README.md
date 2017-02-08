@@ -6,9 +6,9 @@ author: selvasingh
 
 #Getting Started with Compute - List Virtual Machine Images - in .Net #
 
-      List all virtual machine image publishers and
-      list all virtual machine images published by Canonical, Red Hat and
-      SUSE by browsing through locations, publishers, offers, SKUs and images.
+          List all virtual machine image publishers and
+          list all virtual machine images published by Canonical, Red Hat and
+          SUSE by browsing through locations, publishers, offers, SKUs and images.
 
 
 ## Running this Sample ##
