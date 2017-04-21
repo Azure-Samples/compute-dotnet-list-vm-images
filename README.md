@@ -4,7 +4,7 @@ platforms: .Net
 author: selvasingh
 ---
 
-#Getting Started with Compute - List Virtual Machine Images - in .Net #
+# Getting Started with Compute - List Virtual Machine Images - in .Net #
 
           List all virtual machine image publishers and
           list all virtual machine images published by Canonical, Red Hat and
