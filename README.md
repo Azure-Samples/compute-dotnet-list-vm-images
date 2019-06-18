@@ -20,10 +20,10 @@ Set the environment variable `AZURE_AUTH_LOCATION` with the full path for an aut
     git clone https://github.com/Azure-Samples/compute-dotnet-list-vm-images.git
 
     cd compute-dotnet-list-vm-images
-
-    dotnet restore
-
-    dotnet run
+  
+    dotnet build
+    
+    bin\Debug\net452\ListVirtualMachineImages.exe
 
 ## More information ##
 
